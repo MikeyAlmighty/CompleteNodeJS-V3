@@ -1,4 +1,4 @@
 node_modules/
 */node_modules/*
-mongodb-data/
+mongodb-data/*
 task-manager/node_modules/
